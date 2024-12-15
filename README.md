@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Multi-GPT2
 The implementation of EMNLP2020-Findings paper 
 
@@ -103,3 +104,6 @@ python inference.py \
 --response_k 3 \
 ```
 The default inference method is beam search, you can use top-k sampling instead.
+=======
+# Multi-GPT-attention
+>>>>>>> 585d0072459c91f1a8f1288eeadf25cfce602811
